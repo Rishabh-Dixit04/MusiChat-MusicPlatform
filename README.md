@@ -2,6 +2,8 @@
     <img src="./frontend/public/MusiChat_Logo.png" alt="MusiChat logo">
 </p>
 
+# MusiChat
+
 ### [MusiChat Website](https://musichat-musicplatform.onrender.com)
 
 ## An interactive music platform with real-time streaming, uploads, and an integrated live chat for seamless user interaction.
